@@ -1,4 +1,3 @@
 # WebCode
-This is an webstorm theme,base on VScode dark+ theme.
-please put the file into C:\Users\.WebStorm2019.2\config\colors
-webstorm > File > settings > Editor > Color Scheme > Scheme:WebCode
+webstorm的仿vscode配色主题,保留了webstorm原有的特色
+使用方法:settings > Editor > Color Scheme > Scheme:WebCode Import Scheme
